@@ -25,8 +25,6 @@ pow = math.pow(x, y)    # 1024.0
 log = math.log(pow, x)  # 10.0
 natural_log = math.log(1024)  # 6.931471805599453
 
-import math
-
 result = math.sqrt(100)  # 10.0
 
 deg = 60.0
